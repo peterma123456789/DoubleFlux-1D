@@ -1,4 +1,4 @@
-# doubleflux-1d
+# DoubleFlux-1D
 
 This folder contains scripts and functions for a one-dimensional advection test case on Euler equations. A double-flux model is used to maintain pressure equilibrium across the contact interface. Finite volume method is used for the spatial discretization. First-order reconstruction and HLLC Riemann solver are used for the calculation of the flux. A third-order Runge-Kutta method is used for the time advancement. Real-fluid thermodynamics are described by the cubic Peng-Robinson equation of state. Nitrogen is used as the working fluid.
 
