@@ -1,4 +1,4 @@
-Copyright (c) 2016, Peter C. Ma, Yu Lv, Matthias Ihme
+Copyright (c) 2017, Peter C. Ma, Yu Lv, Matthias Ihme
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
